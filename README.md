@@ -160,3 +160,20 @@ With wireframes, teams can get **early feedback** on structure and flow, making 
 **Example:** Wireframes showing different layout options for the “Search Hotels” feature can be quickly shared and tested with users or clients for input before choosing the best version.
 
 ---
+
+## 🧪 Real-World Scenario: Wireframing Prevents Usability Issues
+
+In the early stages of developing a hotel booking management system, designers created a wireframe for the checkout process. The initial design separated the payment step from the booking confirmation step, placing them on different pages. When tested with stakeholders and potential users, feedback revealed that this caused confusion—users expected to complete the booking in a single, unified step.
+
+### 🛠️ How the Issue Was Resolved
+The team used the feedback to revisit the wireframe. They redesigned the checkout flow to consolidate payment and confirmation on one screen. A progress indicator and clear action buttons were added to improve clarity and guide users through the process.
+
+### ✅ Impact on the Final Product
+- **Improved usability:** Users found the streamlined flow easier to understand and complete.
+- **Reduced friction:** Fewer users abandoned the process at the payment stage.
+- **Development efficiency:** Since the issue was caught early in the wireframe phase, costly redesigns during development were avoided.
+
+**Conclusion:**  
+Wireframing identified critical usability issues early, leading to a smoother user experience and more efficient development. It proved essential in building a user-friendly product from the ground up.
+
+---
