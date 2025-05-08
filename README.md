@@ -1,5 +1,7 @@
 # 📐 Wireframing
 
+---
+
 ## 📝 What is Wireframing?
 
 Wireframing is the process of creating a simplified visual guide that represents the structure, layout, and functionality of a digital interface, such as a website or mobile app. It acts as a blueprint for the design, showing the placement of key elements like headers, content areas, navigation menus, and buttons without focusing on visual style or detailed content.
@@ -23,6 +25,8 @@ Wireframes are typically used during the early planning and design phases of a p
 - Planning layouts for different screen sizes (responsive design)
 - Preparing for prototyping and UI design
 - Collaborating across cross-functional teams
+
+---
 
 ## 🧩 Key Elements of a Wireframe
 
@@ -64,5 +68,3 @@ Wireframes consist of several core elements that work together to represent the 
 - A “Submit” button for a contact form that triggers validation and form submission.
 
 ---
-
-These elements help transform ideas into structured, user-centered
