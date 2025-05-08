@@ -1,7 +1,5 @@
 # 📐 Wireframing
 
----
-
 ## 📝 What is Wireframing?
 
 Wireframing is the process of creating a simplified visual guide that represents the structure, layout, and functionality of a digital interface, such as a website or mobile app. It acts as a blueprint for the design, showing the placement of key elements like headers, content areas, navigation menus, and buttons without focusing on visual style or detailed content.
