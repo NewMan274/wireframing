@@ -68,3 +68,52 @@ Wireframes consist of several core elements that work together to represent the 
 - A “Submit” button for a contact form that triggers validation and form submission.
 
 ---
+
+## 🧱 Types of Wireframes
+
+Wireframes can vary in complexity and detail depending on the stage of the design process. The two main types are **low-fidelity** and **high-fidelity** wireframes.
+
+### 🧾 Low-Fidelity Wireframes
+**Definition:** Simple, sketch-like representations that focus on layout, structure, and basic functionality without design details like colors, fonts, or images.
+
+**When to Use:**
+- Early in the design process
+- During brainstorming or ideation
+- When validating user flow or layout with stakeholders
+
+**Key Characteristics:**
+- Black and white or grayscale
+- Placeholder text ("Lorem Ipsum")
+- Basic shapes for images and buttons
+
+**Example Use Case:** Planning the structure of a new website’s homepage to decide content hierarchy.
+
+
+### 🎨 High-Fidelity Wireframes
+**Definition:** Detailed wireframes that closely resemble the final product. They include accurate spacing, typography, imagery, and sometimes interactions.
+
+**When to Use:**
+- After user flow and layout are approved
+- When preparing for UI design or prototyping
+- For client presentations or handoff to developers
+
+**Key Characteristics:**
+- Pixel-perfect design
+- Real text, images, and buttons
+- Can simulate functionality (clickable areas)
+
+**Example Use Case:** Designing the checkout flow of an app with accurate content and visual styling for user testing.
+
+
+## 🔍 Example Wireframe Analysis
+
+### Type: **High-Fidelity Wireframe**
+
+**Why?**
+- It features polished visual elements including icons, color schemes, and actual UI components like buttons, search bars, and image placeholders.
+- The layout is clean, responsive, and user-centered, resembling what the final product would look like.
+- It appears to be used for late-stage design review, UI approval, or developer handoff.
+
+**Conclusion:** This wireframe is best suited for demonstrating final design intentions and validating user experience before development begins.
+
+---
