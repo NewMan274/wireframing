@@ -23,3 +23,46 @@ Wireframes are typically used during the early planning and design phases of a p
 - Planning layouts for different screen sizes (responsive design)
 - Preparing for prototyping and UI design
 - Collaborating across cross-functional teams
+
+## 🧩 Key Elements of a Wireframe
+
+Wireframes consist of several core elements that work together to represent the basic structure and functionality of a digital product. Below are the key elements commonly found in a wireframe:
+
+### 🏗️ Layout Structure
+**Definition:** The overall framework that defines how elements are arranged on a page or screen.
+
+**Purpose:** It provides a visual hierarchy that ensures users can easily navigate and understand the interface.
+
+**Example:** 
+- Placing a logo at the top-left, a navigation bar at the top, a content section in the middle, and a footer at the bottom.
+
+### 🧭 Navigation
+**Definition:** The menus, links, or buttons that allow users to move between different sections or pages of the product.
+
+**Purpose:** Good navigation ensures users can find what they’re looking for efficiently and intuitively.
+
+**Example:** 
+- A top navigation bar with links to “Home,” “About,” and “Contact.”
+- A sidebar for navigating categories in an e-commerce site.
+
+### 🗂️ Content Placement
+**Definition:** The strategic positioning of text, images, and other media elements within the layout.
+
+**Purpose:** Clear content placement enhances readability, user engagement, and visual flow.
+
+**Example:** 
+- A featured article placed prominently at the top of a news website.
+- A grid layout showing product cards in an online store.
+
+### ⚙️ Functionality
+**Definition:** The interactive features and controls users will engage with to perform actions.
+
+**Purpose:** Helps define what the interface allows the user to do and how the system responds.
+
+**Example:** 
+- A search bar that filters results in real-time.
+- A “Submit” button for a contact form that triggers validation and form submission.
+
+---
+
+These elements help transform ideas into structured, user-centered
