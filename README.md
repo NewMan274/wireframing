@@ -23,7 +23,3 @@ Wireframes are typically used during the early planning and design phases of a p
 - Planning layouts for different screen sizes (responsive design)
 - Preparing for prototyping and UI design
 - Collaborating across cross-functional teams
-
----
-
-Feel free to customize this based on your specific project or design focus. Would you like me to generate a wireframe example or template as well?
